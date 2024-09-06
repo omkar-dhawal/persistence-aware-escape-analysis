@@ -1,0 +1,16 @@
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/ContextTransitionTable.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/soot/ContextSensitiveJimpleRepresentation.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/BciContainer.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/ProgramRepresentation.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/OldForwardInterProceduralAnalysis.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/InterProceduralAnalysis.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/CallGraphTest.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/PointsToGraph.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/PointsToAnalysis.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/DataFlowSolution.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/CallsiteInvariantContainer.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/CallSite.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/soot/DefaultJimpleRepresentation.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/Context.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/soot/AbstractNullObj.java
+/home/omkar/artifact-SLE/escapeAnalysis/persistence-aware-escapeAnalysis/src/main/java/vasco/callgraph/CallGraphTransformer.java
